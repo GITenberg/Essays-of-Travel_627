@@ -1,0 +1,32 @@
+_repo: Essays-of-Travel_627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel'
+- GITenberg
+tableOfContents: The amateur emigrant, from the Clyde to Sandy Hook -- Cockermouth
+  and Keswick -- An autumn effect -- A winter's walk in Carrick and Galloway -- Forest
+  notes -- A mountain town in France -- Random memories, rosa quo locorum -- The ideal
+  house -- Davos in winter -- Health and mountains -- Alpine diversions -- The stimulation
+  of the Alps -- Roads -- On the enjoyment of unpleasant places.
+title: Essays of Travel
+url: http://www.gutenberg.org/ebooks/627
